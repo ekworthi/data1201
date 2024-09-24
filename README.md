@@ -1,1 +1,1 @@
-# Data 1201 - Explorations in Data Scienc
+# Data 1201 - Explorations in Data Science
