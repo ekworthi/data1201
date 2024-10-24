@@ -11,8 +11,3 @@ This repository serves as a base repository for assignments in DATA1201!
 | Week 3 | Working With Files   | -          |
 | Week 4 | Markdown             | This Readme|
 >>>>>>> 61af3f0c8dfd54b6682e72e0d6a2e4e99a1dc00c
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
